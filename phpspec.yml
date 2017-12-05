@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CookieCommerce
+        psr4_prefix: CookieCommerce
+        src_path: app
